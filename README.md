@@ -31,7 +31,6 @@ All raw personal data is excluded from this repository for privacy reasons.
 Monthly cycle: Data → Analysis → Prediction → Validate
 
 ## 2026/2/18
-
 **Step 1.1**: Apple Music CSV date conversion  
 `20260115` → `2026-01-15` (`pd.to_datetime(format='%Y%m%d')`)  
 Extracted Jan 2026 play history → `apple_playback_2026_jan.csv` export success!
@@ -40,7 +39,7 @@ Extracted Jan 2026 play history → `apple_playback_2026_jan.csv` export success
 ```python
 df["time"] = pd.to_datetime(df["time"], format="mixed", utc=True)
 jan_2026 = df[(df["time"] >= "2026-01-01") & (df["time"] < "2026-02-01")]
-
+```
 
 ## 2026/2/19
 **Step 1.1**:Apple Music CSV to the raw data file
