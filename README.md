@@ -48,6 +48,12 @@ Moved the CSV file that made yesterday to the private file
 **Step 1.2**:YouTube watch-history.json
 Use SQL to filter the data and find the top 10 played video
 
+## 2026/2/23
+**Apple Music**
+Find the top 10 Artist and top 10 songs played.
+Created the head map of the playing time due to day average the week
+
+
 ### **Todo**
 
 #### **Jan Analysis**
@@ -70,3 +76,38 @@ Use SQL to filter the data and find the top 10 played video
 
 #### **Year-End**
 - [ ] Full 2026 dashboard
+
+
+## Monthly Insights
+
+### Jan 2026 Apple Music
+#### TOP 10 Playes
+[Artist]
+1.SixTONES         138 plays
+2.Mr.Children      107 plays
+3.FRUITS ZIPPER     29 plays
+4.ONE OK ROCK       28 plays
+5.RADWIMPS          20 plays
+6.Yuuri             18 plays
+7.CUTIE STREET      17 plays
+8.TENBLANK          17 plays
+9.ARASHI            17 plays
+10.CANDY TUNE        12 plays
+
+[Songs]
+1.JAPONICA STYLE                        16 plays
+2.Sign                                  10 plays
+3.Can we just be cute?                   8 plays
+4.Anmarioboetenaiya                      8 plays
+5.Forever Eve                            6 plays
+6.Crystalline Echo                       5 plays
+7.Glass Heart                            5 plays
+8.Shirushi                               5 plays
+9.Hatomame -Say Hello To The World.-     5 plays
+10.Futarigoto                             4 plays
+
+#### Play time Heatmap
+![Jan Heatmap](figures/heatmap_weekday_hour.png)
+- Friday AM peak
+- Weekday PM focus
+**Patterns**: Pre-weekend boost → Weekday relaxation routine
