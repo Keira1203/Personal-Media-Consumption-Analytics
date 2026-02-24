@@ -154,7 +154,7 @@ Created the head map of the playing time due to day average the week
 
 
 #### Play time Heatmap
-![YouTube Weekday Heatmap](YouTube_weekday_hour_sqlite.png)
+![YouTube Weekday Heatmap](figures/YouTube_weekday_hour_sqlite.png)
 - Friday AM peak
 - Weekday PM focus
 **Patterns**: Pre-weekend boost → Weekday relaxation routine
