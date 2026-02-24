@@ -53,6 +53,11 @@ Use SQL to filter the data and find the top 10 played video
 Find the top 10 Artist and top 10 songs played.
 Created the head map of the playing time due to day average the week
 
+##2026/2/24
+**YouTube**
+Get the top 10 played video with delating the promotion video from the list 
+Make the API key to get the YouTube channnel from the video URL
+
 
 ### **Todo**
 
@@ -111,3 +116,16 @@ Created the head map of the playing time due to day average the week
 - Friday AM peak
 - Weekday PM focus
 **Patterns**: Pre-weekend boost → Weekday relaxation routine
+
+### Jan 2026 YouTube
+#### TOP 10 Videos
+1. 【#SixTONES】ベストアルバム「MILESixTONES -Best Tracks-」...      10 times
+2. 京本大我 – 世界に1つだけのギター完成 – IN-PUT #3                    7 times
+3. 京本大我 – オリジナルエレキギター製作 – IN-PUT #1                   7 times
+4. 京本大我 – アコースティックギターをCraft – IN-PUT #2                7 times
+5. 京本大我 – WONDER LAND                                            7 times
+6. 京本大我 – WONDER LAND (from TAIGA KYOMOTO Anniver...             7 times
+7. 京本大我 – RAY (from BLUE OF LIBERTY 2025.06.18 Ze...             7 times
+8. 京本大我 – Prelude                                                7 times
+9. 京本大我 – LIVE DVD&Blu-ray「BLUE OF LIBERTY」OUT-PUT             7 times
+10. 京本大我 – Album「PROT.30」OUT-PUT                               7 times
