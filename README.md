@@ -124,6 +124,20 @@ Created the head map of the playing time due to day average the week
 **Patterns**: Pre-weekend boost → Weekday relaxation routine
 
 ### Jan 2026 YouTube
+#### TOP 10 Channels
+| Rank | Channel (English) | Plays |
+|------|------------------|-------|
+| 1 | CUTIE STREET | 28 times |
+| 2 | SixTONES | 26 times |
+| 3 | Mr.Children Official Channel | 18 times |
+| 4 | MORE STAR | 17 times |
+| 5 | Naka riisa desu | 16 times |
+| 6 | Idol Daisuki Zukan (Idol Encyclopedia) | 15 times |
+| 7 | Thủy Aesthetic | 12 times |
+| 8 | KAWAII LAB. | 9 times |
+| 9 | Kuwata Keisuke | 8 times |
+| 10 | Medical Subtle Light | 8 times |
+
 #### TOP 10 Videos
 | Rank | Video Title (English) | Views |
 |------|----------------------|-------|
@@ -139,22 +153,8 @@ Created the head map of the playing time due to day average the week
 | 10 | Taiga Kyomoto - Album "PROT.30" OUT-PUT | 7 times |
 
 
-#### TOP 10 Channels
-| Rank | Channel (English) | Plays |
-|------|------------------|-------|
-| 1 | CUTIE STREET | 28 times |
-| 2 | SixTONES | 26 times |
-| 3 | Mr.Children Official Channel | 18 times |
-| 4 | MORE STAR | 17 times |
-| 5 | Naka riisa desu | 16 times |
-| 6 | Idol Daisuki Zukan (Idol Encyclopedia) | 15 times |
-| 7 | Thủy Aesthetic | 12 times |
-| 8 | KAWAII LAB. | 9 times |
-| 9 | Kuwata Keisuke | 8 times |
-| 10 | Medical Subtle Light | 8 times |
-
 #### Play time Heatmap
-![Jan Heatmap](figures/YouTube_weekday_hour.png)
+![YouTube Weekday Heatmap](YouTube_weekday_hour_sqlite.png)
 - Friday AM peak
 - Weekday PM focus
 **Patterns**: Pre-weekend boost → Weekday relaxation routine
