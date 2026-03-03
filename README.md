@@ -158,3 +158,10 @@ Created the head map of the playing time due to day average the week
 - Friday AM peak
 - Weekday PM focus
 **Patterns**: Pre-weekend boost → Weekday relaxation routine
+
+
+#### Study time Heatmap
+![Study time](figures/Studytime_heatmap.png)
+- Friday AM peak
+- Weekday PM focus
+**Patterns**: Pre-weekend boost → Weekday relaxation routine
