@@ -26,15 +26,15 @@ Insights from this project can help improve time management and balance between 
 
 ## Project Structure
 Personal-Media-Consumption-Analytics/
-├─ data/
-├─ figures/ # generated plots
-├─ notebooks/ # analysis notebooks
-├─ reports/ # monthly reports
-├─ src/ # helper scripts
-├─ .gitignore
-├─ LICENSE
-├─ requirements.txt
-└─ README.md
+├─ data/  
+├─ figures/ # generated plots  
+├─ notebooks/ # analysis notebooks  
+├─ reports/ # monthly reports  
+├─ src/ # helper scripts  
+├─ .gitignore  
+├─ LICENSE  
+├─ requirements.txt  
+└─ README.md  
 
 ## Monthly Reports
 
