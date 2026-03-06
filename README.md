@@ -25,7 +25,7 @@ Insights from this project can help improve time management and balance between 
 - SQLite
 
 ## Project Structure
-Personal-Media-Consumption-Analytics/
+Personal-Media-Consumption-Analytics/  
 ├─ data/  
 ├─ figures/ # generated plots  
 ├─ notebooks/ # analysis notebooks  
@@ -45,3 +45,8 @@ They summarize the top content, usage patterns, and correlations between enterta
 
 This repository contains **no personally identifiable information**.  
 All raw data has been processed or anonymized before analysis.
+
+## Set up
+```bash
+pip install -r requirements.txt
+jupyter notebook

@@ -1,0 +1,8 @@
+﻿data/processed/
+data/raw/
+*.csv
+*.xml
+export.xml
+export_cda.xml
+__pycache__/
+.ipynb_checkpoints/
